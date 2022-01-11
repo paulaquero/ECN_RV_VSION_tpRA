@@ -1,0 +1,5 @@
+﻿  ArUco-OpenGL.cpp
+C:\Users\Eleve\source\repos\TP_VSION_RA\Aruco3112MiniOpenGL\ArUco-OpenGL.h(23,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'aruco/aruco.h' : No such file or directory
+  main.cpp
+C:\Users\Eleve\source\repos\TP_VSION_RA\Aruco3112MiniOpenGL\main.cpp(11,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'glfw3.h' : No such file or directory
+  Génération de code en cours...
